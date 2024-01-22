@@ -11,7 +11,7 @@
       cat > Dcapi.podspec <<-EOF
         Pod::Spec.new do |s|
             s.name         = "Dcapi"
-            s.version      = "0.0.1"
+            s.version      = "0.0.4"
             s.summary      = "A brief description of Dcapi project."
             s.description  = <<-DESC
             An extended description of Dcapi project.

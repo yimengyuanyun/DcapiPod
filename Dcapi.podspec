@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
     spec.name         = "Dcapi"
-    spec.version      = "0.0.3"
+    spec.version      = "0.0.5"
     spec.summary      = "A brief description of Dcapi project."
     spec.description  = <<-DESC
     An extended description of Dcapi project.
